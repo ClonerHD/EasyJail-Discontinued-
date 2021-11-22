@@ -8,7 +8,10 @@ This plugin requires Copy Paste by misticos. You can get it here: https://umod.o
 * /jail-list
 
 **Permissions:**
-* easyjail.use (required for all commands)
+* easyjail.jail
+* easyjail.unjail
+* easyjail.gui-open
+* easyjail.gui-close
 
 How to add custom jail cells:
 1. Build the jail cell
