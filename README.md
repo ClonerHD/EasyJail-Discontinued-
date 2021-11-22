@@ -3,12 +3,12 @@ Allows admins to quickly and easily jail players with support for custom jail ce
 This plugin requires Copy Paste by misticos. You can get it here: https://umod.org/plugins/copy-paste
 
 #**Commands:**
-/jail [Player] [small/medium/large]
-/unjail [Player]
-//jail-list
+* /jail [Player] [small/medium/large]
+* /unjail [Player]
+* //jail-list
 
 **Permissions:**
-easyjail.use (required for all commands)
+* easyjail.use (required for all commands)
 
 How to add custom jail cells:
 1. Build the jail cell
