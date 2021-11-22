@@ -7,7 +7,7 @@ using UnityEngine;
 using Oxide.Game.Rust.Cui;
 namespace Oxide.Plugins
 {
-    [Info("EasyJail", "Cloner", "1.0.2")]
+    [Info("EasyJail", "Cloner", "1.0.0")]
     [Description("Allows admins to quickly and easily jail players with support for custom jail cells!")]
     internal class EasyJail : CovalencePlugin
     {
@@ -34,7 +34,7 @@ namespace Oxide.Plugins
             Config["PlayerNotOnServerError"] = "This player is not on the server!";
             Config["WrongUsageMsg"] = "You need to specify a player and jail cell type!";
             Config["WrongUsageMsg2"] = "You need to specify a player!";
-			Config["TeleportOffset (don't change unless players spawn outside the jail)"] = "(0, 1, 3)";
+			Config["TeleportOffset (don't change unless players spawn outside the jail)"] = "(0, 1, 0)";
         }
 		
         public const string Permission0 = "easyjail.jail";
@@ -195,7 +195,7 @@ namespace Oxide.Plugins
         // create cui container
         CuiElementContainer container = new CuiElementContainer();
 
-        // create small ui panel that's tall
+        // Panel
         container.Add(new CuiPanel
         {
             Image = { Color = "0.1 0.1 0.1 0.8" },
@@ -233,7 +233,7 @@ namespace Oxide.Plugins
                 RectTransform = { AnchorMin = "0.05 " + pos.ToString(), AnchorMax = "0.3 " + (pos + 0.05f).ToString()}
             }, "JailList");
 
-            // add button next to the player's name that says unjail
+            // add buttons
 
             container.Add(new CuiButton
             {
