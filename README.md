@@ -3,9 +3,9 @@ Allows admins to quickly and easily jail players with support for custom jail ce
 This plugin requires Copy Paste by misticos. You can get it here: https://umod.org/plugins/copy-paste
 
 #**Commands:**
-* /jail command um zu /jail [Player] [Jail Type]
-* /unjail [Player]
-* /jail-list
+* `/jail [Player] [Jail Type]`
+* `/unjail <player>`
+* `/jail-list`
 
 **Permissions:**
 * easyjail.jail
