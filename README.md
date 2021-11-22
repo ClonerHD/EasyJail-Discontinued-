@@ -5,7 +5,7 @@ This plugin requires Copy Paste by misticos. You can get it here: https://umod.o
 #**Commands:**
 * /jail [Player] [small/medium/large]
 * /unjail [Player]
-* //jail-list
+* /jail-list
 
 **Permissions:**
 * easyjail.use (required for all commands)
