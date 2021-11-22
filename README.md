@@ -1,6 +1,5 @@
 # **Jail-System-for-Rust**
 Allows admins to quickly and easily jail players with support for custom jail cells!
-This plugin requires Copy Paste by misticos. You can get it here: https://umod.org/plugins/copy-paste
 
 ## Chat commands
 
@@ -14,6 +13,9 @@ This plugin requires Copy Paste by misticos. You can get it here: https://umod.o
 * `easyjail.unjail`
 * `easyjail.gui-open`
 * `easyjail.gui-close`
+
+## depends on
+* https://umod.org/plugins/copy-paste
 
 ## Usage
 
