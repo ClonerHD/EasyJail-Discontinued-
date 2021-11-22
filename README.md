@@ -10,10 +10,10 @@ This plugin requires Copy Paste by misticos. You can get it here: https://umod.o
 
 ## Permissions
 
-* easyjail.jail
-* easyjail.unjail
-* easyjail.gui-open
-* easyjail.gui-close
+* `easyjail.jail`
+* `easyjail.unjail`
+* `easyjail.gui-open`
+* `easyjail.gui-close`
 
 ## Usage
 
