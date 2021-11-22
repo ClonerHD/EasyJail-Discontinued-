@@ -15,7 +15,7 @@ Allows admins to quickly and easily jail players with support for custom jail ce
 * `easyjail.gui-close`
 
 ## depends on
-* https://umod.org/plugins/copy-paste
+* `https://umod.org/plugins/copy-paste`
 
 ## Usage
 
