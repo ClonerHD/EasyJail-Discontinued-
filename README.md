@@ -16,18 +16,18 @@ How to add custom jail cells:
 3. You are now able to jail players in this cell using /jail [Player] [cell name from the last command]
 
 #Configuration
-"PlayerAlreadyJailedMsg": "This Player is already jailed!",
-"PlayerJailedMsg": "The player has been jailed!",
-"PlayerJailErrorMsg": "The player could not be jailed!",
-"PlayerNotInJailMsg": "This player is not jailed!",
-"PlayerNotOnServerError": "This player is not on the server!",
-"PlayerUnjailedMsg": "The player has been unjailed!",
-"TeleportOffset (don't change unless players spawn outside the jail)": "(0, 1, 3)",
-"WrongUsageMsg": "You need to specify a player and jail cell type!",
-"WrongUsageMsg2": "You need to specify a player!",
-"YouJailedMsg": "You have been jailed!",
-"YouUnjailedMsg": "You have been unjailed!"
+*   "PlayerAlreadyJailedMsg": "This Player is already jailed!",
+*   "PlayerJailedMsg": "The player has been jailed!",
+*   "PlayerJailErrorMsg": "The player could not be jailed!",
+*   "PlayerNotInJailMsg": "This player is not jailed!",
+*   "PlayerNotOnServerError": "This player is not on the server!",
+*   "PlayerUnjailedMsg": "The player has been unjailed!",
+*   "TeleportOffset (don't change unless players spawn outside the jail)": "(0, 1, 3)",
+*   "WrongUsageMsg": "You need to specify a player and jail cell type!",
+*   "WrongUsageMsg2": "You need to specify a player!",
+*   "YouJailedMsg": "You have been jailed!",
+*   "YouUnjailedMsg": "You have been unjailed!"
 
 #**Credits**
-**BY Cloner**
-**By Brimeggi**
+*   **By Cloner**
+*   **By Brimeggi**
