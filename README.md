@@ -3,7 +3,7 @@ Allows admins to quickly and easily jail players with support for custom jail ce
 This plugin requires Copy Paste by misticos. You can get it here: https://umod.org/plugins/copy-paste
 
 #**Commands:**
-* /jail [Player] [small/medium/large]
+* /jail command um zu /jail [Player] [Jail Type]
 * /unjail [Player]
 * /jail-list
 
@@ -23,14 +23,13 @@ How to add custom jail cells:
 *   "PlayerJailedMsg": "The player has been jailed!",
 *   "PlayerJailErrorMsg": "The player could not be jailed!",
 *   "PlayerNotInJailMsg": "This player is not jailed!",
-*   "PlayerNotOnServerError": "This player is not on the server!",
+*  "PlayerNotOnServerError": "This player is not on the server!",
 *   "PlayerUnjailedMsg": "The player has been unjailed!",
-*   "TeleportOffset (don't change unless players spawn outside the jail)": "(0, 1, 3)",
+*   "TeleportOffset (don't change unless players spawn outside the jail)": "(0, 1, 0)",
 *   "WrongUsageMsg": "You need to specify a player and jail cell type!",
 *   "WrongUsageMsg2": "You need to specify a player!",
 *   "YouJailedMsg": "You have been jailed!",
-*   "YouUnjailedMsg": "You have been unjailed!"
-
+*   "YouUnjailedMsg": "You have been unjailed!" 
 #**Credits**
 *   **By Cloner**
 *   **By Brimeggi**
