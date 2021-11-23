@@ -37,5 +37,5 @@ Allows admins to quickly and easily jail players with support for custom jail ce
 *   "YouJailedMsg": "You have been jailed!",
 *   "YouUnjailedMsg": "You have been unjailed!" 
   ## Credits
-*   **By Cloner**
-*   **By Brimeggi**
+*   ** Cloner**
+*   ** Brimeggi**
