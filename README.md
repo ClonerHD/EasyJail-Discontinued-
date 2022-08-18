@@ -1,4 +1,4 @@
-# **Jail-System-for-Rust**
+# **EasyJail**
 Allows admins to quickly and easily jail players with support for custom jail cells!
 
 ## Chat commands
